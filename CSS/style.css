@@ -3,6 +3,13 @@
     font-family: 'Poppins',cursive;
 }
 body{
+    background-image: url("/img/MImi.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+body{
     color: azure;
     width: 100%;
     height: 82vh;
@@ -11,6 +18,10 @@ body{
     align-items: center;
     justify-content: center;
     background-color: black;
+    background-image: url("/img/Fondo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
     /* padding-top: -30; */
 }
 
